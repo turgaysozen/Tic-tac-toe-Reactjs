@@ -1,1 +1,1 @@
-Tic-Tac-Toe React Tutorial from https://tr.reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial
+Tic-Tac-Toe React Tutorial from https://reactjs.org/tutorial/tutorial.html#setup-for-the-tutorial
